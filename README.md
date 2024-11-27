@@ -1,7 +1,3 @@
-To resolve the conflict, you can merge the changes carefully by ensuring no content is lost and the final document is coherent. Below is the resolved README:
-
----
-
 # Action-to-Talk Project: CNN Model Training and Deployment
 
 This repository contains the Convolutional Neural Network (CNN) model designed to recognize hand gestures and translate them into spoken language for the Action-to-Talk project.
